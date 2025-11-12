@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762942314 source:c:\users\yasserazab\desktop\project c++\metro network analyzer\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+
