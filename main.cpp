@@ -198,9 +198,9 @@ private:
     // Function to calculate ticket price based on user-defined tiers
     int calculateTicketPrice(int stationsCount) {
         if (stationsCount <= 9) {
-            return 8; // 1-9 stations
+            return 10; // 1-9 stations
         } else if (stationsCount <= 16) {
-            return 10; // 10-16 stations
+            return 12; // 10-16 stations
         } else if (stationsCount <= 23) {
             return 15; // 17-23 stations
         } else {
